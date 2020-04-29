@@ -1,0 +1,13 @@
+# Title: MichaelRPowell/hosts
+#
+# This hosts file is a collection of hosts blocked in Pi-hole
+#
+#
+# Latest version: https://raw.githubusercontent.com/MichaelRPowell/hosts/master/hosts
+#
+# Formatting and idea taken from this project: https://github.com/StevenBlack/hosts
+#
+# ===============================================================
+
+# Website Spam
+topblockchainsolutions.nl
